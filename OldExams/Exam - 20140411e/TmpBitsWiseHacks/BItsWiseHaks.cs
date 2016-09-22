@@ -2,7 +2,7 @@
 
 namespace TmpBitsWiseHacks
 {
-    class Program
+    class BItsWiseHaks
     {
         static void Main(string[] args)
         {
