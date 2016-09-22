@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01-Cinema", "ex01-Cinema\ex01-Cinema.csproj", "{277DC483-48ED-408B-A75D-9430F98A2538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex02-Illuminati", "ex02-Illuminati\ex02-Illuminati.csproj", "{E917C392-6A1D-4459-892F-3488277D52DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex03-NewHouse", "ex03-NewHouse\ex03-NewHouse.csproj", "{E998B9DB-38CD-47C9-AD4C-CF63BF4DE982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04-CrossingSequences", "ex04-CrossingSequences\ex04-CrossingSequences.csproj", "{8D8E7C59-8064-4EBA-B09C-5D4F05656CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex04-CrossingSequences2", "ex01-CrossingSequences2\ex04-CrossingSequences2.csproj", "{3397796E-77B6-48C3-8629-17A3FAE491B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex05-CatchTheBits", "ex05-CatchTheBits\ex05-CatchTheBits.csproj", "{2AEC9997-C842-484B-818E-4776464E1E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TmpBitsWiseHacks", "TmpBitsWiseHacks\TmpBitsWiseHacks.csproj", "{E7D371B4-DCAC-460B-8DCA-0B7829E4EBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{277DC483-48ED-408B-A75D-9430F98A2538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277DC483-48ED-408B-A75D-9430F98A2538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277DC483-48ED-408B-A75D-9430F98A2538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277DC483-48ED-408B-A75D-9430F98A2538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E917C392-6A1D-4459-892F-3488277D52DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E917C392-6A1D-4459-892F-3488277D52DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E917C392-6A1D-4459-892F-3488277D52DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E917C392-6A1D-4459-892F-3488277D52DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E998B9DB-38CD-47C9-AD4C-CF63BF4DE982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E998B9DB-38CD-47C9-AD4C-CF63BF4DE982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E998B9DB-38CD-47C9-AD4C-CF63BF4DE982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E998B9DB-38CD-47C9-AD4C-CF63BF4DE982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8E7C59-8064-4EBA-B09C-5D4F05656CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8E7C59-8064-4EBA-B09C-5D4F05656CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8E7C59-8064-4EBA-B09C-5D4F05656CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8E7C59-8064-4EBA-B09C-5D4F05656CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3397796E-77B6-48C3-8629-17A3FAE491B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3397796E-77B6-48C3-8629-17A3FAE491B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3397796E-77B6-48C3-8629-17A3FAE491B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3397796E-77B6-48C3-8629-17A3FAE491B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEC9997-C842-484B-818E-4776464E1E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEC9997-C842-484B-818E-4776464E1E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEC9997-C842-484B-818E-4776464E1E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEC9997-C842-484B-818E-4776464E1E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D371B4-DCAC-460B-8DCA-0B7829E4EBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D371B4-DCAC-460B-8DCA-0B7829E4EBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D371B4-DCAC-460B-8DCA-0B7829E4EBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D371B4-DCAC-460B-8DCA-0B7829E4EBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
