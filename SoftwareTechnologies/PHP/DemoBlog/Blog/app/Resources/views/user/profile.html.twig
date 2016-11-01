@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'profile' %}
+
+{% block main %}
+
+    <a href="{{ path('create_article') }}">Create an Article</a>
+    <div>
+        {{ user.email }}
+        <br>
+        {{ user.fullName }}
+    </div>
+{% endblock %}
